@@ -4,6 +4,8 @@ It starts with an idea.
 
 Create a feature branch which includes the Playground file. Branch off of that feature to develop your component.
 
+Notify your fellow contributors.
+
 Write your code in a class named after your GitHub account.
 
 Give Big-O (time and space) for all functions, as best you can.
